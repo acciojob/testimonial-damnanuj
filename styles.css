@@ -9,12 +9,12 @@
     width: 800px;
     background-color: white;
   }
-  .one1{
-    margin-left: 700px;
+  .author{
+    text-align: right;
     font-style: italic;
   }
-  .two2{
-    margin-left: 700px;
+  .author{
+   text-align: right;
     font-style: italic;
   }
   .back{

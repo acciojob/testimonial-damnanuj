@@ -1,17 +1,22 @@
 .one{
     height: 80px;
     width: 800px;
-    background-color: #f5f5f5;
+    background-color: white;
   }
  
   .two{
     height: 80px;
     width: 800px;
-    background-color: #f5f5f5;
+    background-color: white;
   }
   .one1{
     margin-left: 700px;
+    font-style: italic;
   }
   .two2{
     margin-left: 700px;
+    font-style: italic;
+  }
+  .back{
+    background-color: #f5f5f5;
   }

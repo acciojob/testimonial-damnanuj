@@ -1,21 +1,17 @@
-/*  your css code here. If applicable */
 .one{
     height: 80px;
     width: 800px;
-  
-   
     background-color: #f5f5f5;
   }
-  .one pre{
-   margin-top: 50px;
-  }
+ 
   .two{
     height: 80px;
     width: 800px;
-  
-   
     background-color: #f5f5f5;
   }
-  .one pre{
-   margin-top: 50px;
+  .one1{
+    margin-left: 700px;
+  }
+  .two2{
+    margin-left: 700px;
   }
